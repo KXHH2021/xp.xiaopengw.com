@@ -52,17 +52,17 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310162341666.jpg
+index_img: source/img/1706843913909.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310162341666.jpg
+default_top_img: source/img/1706843913909.jpg
 
 # The banner image of archive page
-archive_img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310162341666.jpg
+archive_img: source/img/1706843913909.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310162341666.jpg
+tag_img: source/img/1706843913909.jpg
 
 # The banner image of tag page
 # format:
