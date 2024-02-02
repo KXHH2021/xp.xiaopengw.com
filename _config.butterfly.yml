@@ -41,11 +41,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/111.jpg
+favicon: http://www.xiaopengw.com/wp-content/uploads/2023/07/xp.png
 
 # Avatar (頭像)
 avatar:
-  img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310121029927.png
+  img: http://www.xiaopengw.com/wp-content/uploads/2023/07/xp.png
   effect: true
 
 # Disable all banner image(如果不要显示顶部图，可直接配置 disable_top_img: true)
