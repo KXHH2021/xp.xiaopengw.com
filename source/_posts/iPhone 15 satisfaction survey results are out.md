@@ -1,11 +1,11 @@
 ---
 title: iPhone 15 satisfaction survey results are out!
-date: 2024-01-10 20:00:00
+date: 2024-02-01 01:00:00
 categories:
   - iPhone
 tags:
   - iPhone 15
-  - 标签2
+  - iPhone
 description: Apple launched the first iPhone in 2007, creating a success story that is almost impossible to replicate
 cover: https://s2.loli.net/2024/02/04/6SnFydQN1RbgKOB.png
 ---
