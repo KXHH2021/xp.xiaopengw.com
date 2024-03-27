@@ -229,7 +229,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: My favorite League of Legends game
+    description: Windows-Store-Card-Games
     button:
       enable: true
       icon: fab fa-github
