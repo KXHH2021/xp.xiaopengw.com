@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /img/111.jpg # image
+  logo: https://s2.loli.net/2024/03/27/zxOdJg7o3fsaZMv.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -41,28 +41,28 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: http://www.xiaopengw.com/wp-content/uploads/2023/07/xp.png
+favicon: https://s2.loli.net/2024/03/27/zxOdJg7o3fsaZMv.png
 
 # Avatar (頭像)
 avatar:
-  img: http://www.xiaopengw.com/wp-content/uploads/2023/07/xp.png
+  img: https://s2.loli.net/2024/03/27/zxOdJg7o3fsaZMv.png
   effect: true
 
 # Disable all banner image(如果不要显示顶部图，可直接配置 disable_top_img: true)
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://github.com/KXHH2021/xp.xiaopengw.com/blob/main/source/img/1706843913909.jpg
+index_img: https://s2.loli.net/2024/03/27/rfHJQwCqoTvmUMu.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://github.com/KXHH2021/xp.xiaopengw.com/blob/main/source/img/1706843913909.jpg
+default_top_img: https://s2.loli.net/2024/03/27/zxOdJg7o3fsaZMv.png
 
 # The banner image of archive page
-archive_img: https://github.com/KXHH2021/xp.xiaopengw.com/blob/main/source/img/1706843913909.jpg
+archive_img: https://s2.loli.net/2024/03/27/2LsN7AGkSnITzVc.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://github.com/KXHH2021/xp.xiaopengw.com/blob/main/source/img/1706843913909.jpg
+tag_img: https://s2.loli.net/2024/03/27/2LsN7AGkSnITzVc.png
 
 # The banner image of tag page
 # format:
