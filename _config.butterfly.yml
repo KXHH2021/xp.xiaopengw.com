@@ -160,7 +160,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href: https://github.com/KXHH2021/dazhuangcn.top
+  author_href: https://github.com/KXHH2021/windowsstorecardgames.com
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -181,7 +181,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/KXHH2021/dazhuangcn.top/edit/main/source/
+  url: https://github.com/KXHH2021/windowsstorecardgames.com/edit/main/source/
 
 # Related Articles
 related_post:
@@ -234,7 +234,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/KXHH2021/dazhuangcn.top
+      link: https://github.com/KXHH2021/windowsstorecardgames.com
   card_announcement:
     enable: true
     content: The Most Interesting Game Introductions Blog
